@@ -1,1 +1,8 @@
 docker.getcollate.io/openmetadata/ingestion:1.4.3
+airbyte/source-oracle:0.5.2
+airbyte/destination-oracle:1.0.0
+airbyte/source-mysql:3.6.8
+airbyte/destination-mysql:1.0.2
+airbyte/source-postgres:3.6.13
+airbyte/destination-postgres:2.3.2
+airbyte/source-kafka:0.2.5
