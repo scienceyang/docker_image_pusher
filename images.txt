@@ -1,7 +1,8 @@
-hub.docker.com/r/airbyte/source-oracle:0.5.2
-hub.docker.com/r/airbyte/destination-oracle:1.0.0
-hub.docker.com/r/airbyte/source-mysql:3.6.8
-hub.docker.com/r/airbyte/destination-mysql:1.0.2
-hub.docker.com/r/airbyte/source-postgres:3.6.13
-hub.docker.com/r/airbyte/destination-postgres:2.3.2
-hub.docker.com/r/airbyte/source-kafka:0.2.5
+airbyte/source-oracle:0.5.2
+airbyte/destination-oracle:1.0.0
+airbyte/source-mysql:3.6.8
+airbyte/destination-mysql:1.0.2
+airbyte/source-postgres:3.6.13
+airbyte/destination-postgres:2.3.2
+airbyte/source-kafka:0.2.5
+
