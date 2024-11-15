@@ -9,3 +9,4 @@ kuaifan/wookteam:8.0
 mariadb
 redis:alpine
 nginx:alpine
+dgiot/dgiot:4.7.1
