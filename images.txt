@@ -10,3 +10,4 @@ mariadb
 redis:alpine
 nginx:alpine
 dgiot/dgiot:4.7.1
+eduardolat/pgbackweb:latest
