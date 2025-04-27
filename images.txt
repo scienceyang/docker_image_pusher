@@ -11,3 +11,8 @@ redis:alpine
 nginx:alpine
 dgiot/dgiot:4.7.1
 eduardolat/pgbackweb:latest
+mysql:8
+redis:6.2
+victoriametrics/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
