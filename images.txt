@@ -17,3 +17,4 @@ victoriametrics/victoria-metrics:v1.79.12
 flashcatcloud/nightingale:latest
 flashcatcloud/categraf:latest
 python:3.9-bookworm
+ibmcom/db2
