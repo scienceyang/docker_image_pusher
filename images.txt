@@ -2,4 +2,4 @@ mysql:8
 redis:6.2
 python:3.9-bookworm
 ibmcom/db2
-pivotaldata/greenplum-db
+lhrbest/greenplum:6.25.3
