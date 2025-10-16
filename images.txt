@@ -1,5 +1,3 @@
-mysql:8
-redis:6.2
 python:3.9-bookworm
 ibmcom/db2
 lhrbest/greenplum:6.25.3
@@ -7,7 +5,7 @@ cozedev/coze-studio-web:latest
 cozedev/coze-studio-server:latest
 nsqio/nsq:v1.2.1
 milvusdb/milvus:v2.5.10
-bitnami/etcd:latest
+etcd:3.5.18
 minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
 bitnami/elasticsearch:8.18.0
 bitnami/redis:8.0
