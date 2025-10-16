@@ -1,1 +1,1 @@
-gcr.io/etcd-development/etcd:3.5.21
+gcr.io/etcd-development/etcd
