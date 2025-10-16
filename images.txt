@@ -6,6 +6,6 @@ cozedev/coze-studio-server:latest
 nsqio/nsq:v1.2.1
 milvusdb/milvus:v2.5.10
 minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
-bitnami/elasticsearch:8.18.0
-bitnami/redis:8.0
+docker.elastic.co/elasticsearch/elasticsearch:8.8.0
+redis:8.2
 mysql:8.4.5
