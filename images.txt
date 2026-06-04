@@ -1,3 +1,4 @@
 bitnamilegacy/redis:8.0
 bitnamilegacy/elasticsearch:8.18.0
 bitnamilegacy/etcd:3.5
+1panel/cordys-crm
