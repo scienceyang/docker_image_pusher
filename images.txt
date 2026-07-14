@@ -3,3 +3,4 @@ bitnamilegacy/elasticsearch:8.18.0
 bitnamilegacy/etcd:3.5
 1panel/cordys-crm
 clickhouse/clickhouse-server
+vespaengine/vespa:8.719.5
